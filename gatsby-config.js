@@ -6,7 +6,7 @@ module.exports = {
     url: 'https://zanthrash.com',
     title: 'By Zan Thrash',
     subtitle:
-      'Some thoughts on the practice of creating software.',
+      'Thoughts on the practice of creating software.',
     copyright: '© All rights reserved.',
     disqusShortname: '',
     menu: [
@@ -17,6 +17,10 @@ module.exports = {
       {
         label: 'About me',
         path: '/about/',
+      },
+      {
+        label: 'Resume',
+        path: '/resume/',
       },
       {
         label: 'Contact me',
@@ -34,6 +38,7 @@ module.exports = {
     },
   },
   plugins: [
+    'gatsby-transformer-json',
     {
       resolve: 'gatsby-source-filesystem',
       options: {

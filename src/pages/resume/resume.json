@@ -1,0 +1,228 @@
+{
+  "basics": {
+    "name": "Zan Thrash",
+    "label": "Senior Software Engineer",
+    "picture": "https://avatars2.githubusercontent.com/u/66639",
+    "summary": "Driven software developer with over 15 years experience building web applications.",
+
+    "email": "zanthrash@gmail.com",
+    "phone": "(651) 247-7350",
+    "location": {
+      "city": "Twin Cities",
+      "countryCode": "US",
+      "state": "Minnesota"
+    },
+    "profiles": [
+      {
+        "network": "twitter",
+        "url": "https://twitter.com/zanthrash",
+        "username": "zanthrash"
+      },
+      {
+        "network": "github",
+        "url": "https://github.com/zanthrash",
+        "username": "zanthrash"
+      },
+      {
+        "network": "linkedin",
+        "url": "https://linkedin.com/in/zanthrash",
+        "username": "zanthrash"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "Target",
+      "position": "Principal Fullstack Engineer",
+      "website": "http://target.com",
+      "startDate": "2017-07-01",
+      "endDate": "present",
+      "summary": "Principal Full Stack Engineer for Target Supply Chain. Developing the control plane for insight and analytics for Targets next generation supply chain management systems."
+    },
+    {
+      "company": "Netflix",
+      "position": "Senior Software Engineer",
+      "website": "http://neflix.com",
+      "startDate": "2014-11-03",
+      "endDate": "2017-04-01",
+      "summary": "Full Stack Engineer for the Netflix Delivery Engineering Tools team. Developing Spinnaker, the next generation multi-cloud Continuous Delivery platform for Netflix and the OSS community.",
+      "highlights": [
+        "Developed Web based UI to allow internal teams to continually deliver software accross mulitlpe AWS regions and and accounts with minimal effort on the end users part.",
+        "Built out multiple backend microservices to provide integration points for Spinnaker to many of Netflix's internal services.",
+        "Collaborate closely with internal customers on a daily basis to make their jobs easier and provide them with the tools to deliver code faster.",
+        "Work closely with external teams(Google, Microsoft, Pivital) to help them get Spinnaker working with their cloud offerings.",
+        "Built multiple command line tools in Go to assist in troubleshooting production issues in a microservices architecture.",
+        "Open Sourced Spinnaker in November 2015 ( http://spinnaker.io )."
+      ]
+    },
+    {
+      "company": "Object Partners",
+      "position": "Principal Consultant",
+      "website": "http://objectparnters.com",
+      "startDate": "2009-09-01",
+      "endDate": "2014-11-01",
+      "summary": "Principal Consultant with a focus in Grails/Spring/AngularJS ",
+      "highlights": [
+        "Helped establish and grow Grails business in a well established JEE / Spring consultancy.",
+        "Co-authored Grails training course",
+        "Established Annual Hackathon",
+        "Speaker: Gr8Conf US / MidwestJS /  GroovyMN / AngularMN"
+      ]
+    },
+    {
+      "company": "Virtuwell.com (Object Partners)",
+      "position": "Senior Software Developer",
+      "website": "http://virtuwell.com",
+      "startDate": "2011-09-01",
+      "endDate": "2014-10-15",
+      "summary": "Led development team in getting new products to market while helping existing products scale as the product rolls out accross the United States.",
+      "highlights": [
+        "After helping build out he initial product, I was brought back to help make the suite of applications production worthy and scalable.",
+        "Worked closely with in-house development team to help bring the stakeholder's vision and desires to reality in a timely manor and on budget.",
+        "Converted client's admistrative application form a Grails/GSP to a AngularJS frontend and Grails based RESTful backend system."
+      ]
+    },
+    {
+      "company": "BuyerCurious.com (Object Partners)",
+      "position": "Senior Software Developer",
+      "website": "http://buyercurious.com",
+      "startDate": "2010-10-01",
+      "endDate": "2011-09-01",
+      "summary": "Led a small development team to bring to market the product owner's vision to change the way Buyers and Sellers interacted with each other during the home buying process.",
+      "highlights": [
+        "Responsible for full lifecycle of the development, from application architecture, database design, developer testing, and coding",
+        "Built with: Grails, MySql, ActiveMQ, AWS"
+      ]
+    },
+    {
+      "company": "Virtuwell.com (Object Partners)",
+      "position": "Senior Software Developer",
+      "website": "http://virtuwell.com",
+      "startDate": "2009-04-01",
+      "endDate": "2010-10-01",
+      "summary": "Led development team in getting the initial product to market.",
+      "highlights": [
+        "Led developemet effort for the backend Provider app. This application allows the nurse practitioner to review a patients case and appropriately treat the case.",
+        "The application also handles patient billing, insurance submittion, and adhears to PCI and PCH compliance.",
+        "Built with: Grails, MSSQL, ActiveMQ, AWS."
+      ]
+    },
+    {
+      "company": "Pearson Vue (Independant)",
+      "position": "Senior Java Developer / I18N Engineer",
+      "website": "http://pearsonvue.com",
+      "startDate": "2008-10-01",
+      "endDate": "2009-04-01",
+      "summary": "Internationalized entire Pearson Vue code base",
+      "highlights": [
+        "Worked on a small team to internationalze entire code base to get ready for large Arabic language driver testing contract.",
+        "Used Groovy to script out the string extraction and property replacent."
+      ]
+    },
+    {
+      "company": "Refactr (Independant)",
+      "position": "Grails Developer",
+      "website": "http://refactr.com",
+      "startDate": "2009-04-01",
+      "endDate": "2008-02-01",
+      "summary": "Independant Grails developer for a small Grails consultancy.",
+      "highlights": [
+        "Worked on multiple project for external clinets as well as for internal projects.",
+        "Projects insculed: LeanTo(leanto.com), CloudProfile.com(rebranded to ReachLocal.com), Empathic Clinical Suite(empathic.com)."
+      ]
+    },
+    {
+      "company": "University of Minnesota",
+      "position": "Senior Java Developer - Office of Enterprise Technology",
+      "website": "http://umn.com",
+      "startDate": "2006-04-01",
+      "endDate": "2009-03-01",
+      "summary": "Responsible for the maintenance and development of all applications that are used accross all campases by faculity, students and staff."
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of St. Thomas",
+      "startDate": "2003-09-01",
+      "endDate": "2006-06-01",
+      "area": "Software Engineering",
+      "studyType": "Masters of Science"
+    },
+    {
+      "institution": "University of Minnesota",
+      "startDate": "2003-09-01",
+      "endDate": "2006-06-01",
+      "area": "Economics",
+      "studyType": "Bachelors of Science"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Frontend Development",
+      "keywords": [
+        "HTML",
+        "CSS",
+        "Javascript",
+        "React",
+        "Redux",
+        "RxJs",
+        "Jest",
+        "enzyme",
+        "react-testing-library",
+        "emotion (CSS-in-JS)",
+        "AngularJS(1.x & 2)",
+        "Typescript",
+        "Flow",
+        "Parcel",
+        "Webpack",
+        "Babel",
+        "GraphQL",
+        "Apollo",
+        "Replay",
+        "Cosmos",
+        "docz"
+      ]
+    },
+    {
+      "name": "Backend Develpment",
+      "keywords": [
+        "RESTful API design",
+        "AWS",
+        "GCP",
+        "Kafka",
+        "Kubernetes",
+        "Ratpack",
+        "Spring",
+        "SpringBoot",
+        "Nginx",
+        "OpenResty",
+        "ActiveMQ",
+        "RabbitMQ",
+        "Tomcat",
+        "Hibernate",
+        "Spring Boot",
+        "Retrofit",
+        "RxJava",
+        "Scala",
+        "Go",
+        "Node",
+        "Redis",
+        "Postgress",
+        "Cassandra"
+      ]
+    },
+    {
+      "name": "Tools",
+      "keywords": [
+        "OS X",
+        "Linux",
+        "IntelliJ",
+        "VS Code",
+        "WebStorm",
+        "VIM",
+        "GIT",
+        "Jira"
+      ]
+    }
+  ]
+}
